@@ -5,6 +5,9 @@ This project is built in Quasar, and Vue3
 ## Getting started
 This project was tested with node v16.15.1
 
+## Project Requirements
+https://docs.google.com/document/d/1IT8IDUllhzuP0YeC0gwl2zkqG3zEx0pq/edit?usp=sharing&ouid=112225752164184723214&rtpof=true&sd=true
+
 To get started:
 1. Fork the repo
 2. Install all dependencies
