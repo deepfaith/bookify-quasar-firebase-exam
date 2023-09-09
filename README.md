@@ -1,6 +1,6 @@
 # Coding Challenge
 
-This project is built in Quasar, and Vue3
+This project is built in Quasar, Firebase and Vue3
 
 ## Getting started
 This project was tested with node v16.15.1
